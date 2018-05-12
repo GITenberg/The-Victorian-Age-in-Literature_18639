@@ -1,0 +1,38 @@
+_repo: The-Victorian-Age-in-Literature_18639
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: '""I was born a Victorian; and sympathise not a little with the serious
+  Victorian Spirit."" In this engaging and extremely personal account G K Chesterton
+  expounds his views on Victorian literature. Many of his opinions reflect the conventions
+  of the age; however of the Victorian novel he refreshingly comments ""it is an art
+  in which women are quite beyond controversy"". Equally uncompromising about poets
+  and poetry he does not hesitate to call Tennyson ""a provincial Virgil"". This book
+  is an important landmark in our understanding of an age which produced some of Britain''s
+  most wi.'
+gutenberg_issued: '2006-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18639'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Home University Library of Modern Knowledge, No. 61
+subjects:
+- !lcc 'PR'
+- !lcsh 'English literature -- 19th century -- History and criticism'
+title: The Victorian Age in Literature
+url: http://www.gutenberg.org/ebooks/18639
